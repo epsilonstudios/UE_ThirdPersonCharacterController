@@ -1,2 +1,2 @@
 # UE_ThirdPersonCharacterController
-A manual and custom third person character controller in unreal engine created using blueprint. It is fully customisable, easy to use and understand. Contains 8 direction movement, animations, adding new features, changing existing included.
+A custom and manual third person character controller created in unreal engine 5.7 using blueprint with default unreal engine skeletal mesh anad mannequine possible suitable and perfect for beginners and learners or a commercial game with enough changes and modification. It includes 8 direction movement with suitable animations
