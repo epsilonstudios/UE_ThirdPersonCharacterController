@@ -1,0 +1,8 @@
+[2664:12412:1223/220342.113:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2664:12412:1223/220342.228:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2664:12412:1223/220348.655:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[2664:12044:1223/220351.562:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2664:12044:1223/221108.723:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2664:12412:1223/221252.593:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2664:12412:1223/221302.676:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2664:12044:1223/224108.635:ERROR:cast_crl.cc(443)] CRL - Verification failed.
